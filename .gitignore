@@ -5,9 +5,9 @@ backend/node_modules/
 admin/node_modules/
 
 # Environment variables and secrets
-.env
-.env.*
-!.env.example
+#.env
+#.env.*
+#!.env.example
 
 # Build files
 dist/
